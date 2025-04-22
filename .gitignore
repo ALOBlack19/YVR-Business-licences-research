@@ -1,7 +1,5 @@
 # Ignore raw data
-data/raw/*
-
-
+data/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
