@@ -84,7 +84,7 @@ YVR-Business-licences-research/
 
 This project uses data provided by the [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/) and complies with the [Open Government Licence – Vancouver](https://vancouver.ca/your-government/terms-of-use.aspx).
 
-Source code in this repository is available under the [MIT License](./LICENSE).
+Source code in this repository is available under the [MIT License](./LICENSE.txt).
 
 👉 For full usage terms and legal details, please see our [Terms of Use](./TERMS.md).
 ## Acknowledgements
