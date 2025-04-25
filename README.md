@@ -80,9 +80,13 @@ YVR-Business-licences-research/
 - [Otávio Londero] (Main Research and Development)
 - [Amir Oliveira] (Main Research and Development)
 
-## License
-This project is licensed under the [Open Government Licence - Vancouver](https://vancouver.ca/your-government/terms-of-use.aspx).
+## License and Terms of Use
 
+This project uses data provided by the [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/) and complies with the [Open Government Licence – Vancouver](https://vancouver.ca/your-government/terms-of-use.aspx).
+
+Source code in this repository is available under the [MIT License](./LICENSE).
+
+👉 For full usage terms and legal details, please see our [Terms of Use](./TERMS.md).
 ## Acknowledgements
 - City of Vancouver Open Data Portal
 - Cornerstone International Community College of Canada
