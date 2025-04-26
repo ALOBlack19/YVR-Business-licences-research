@@ -6,6 +6,7 @@ We aim to uncover insights into business dynamics such as stability, growth, sea
 
 Our analysis leverages **PySpark** for scalable data processing, using Spark DataFrames and SQL queries to manage and analyze millions of licence records.
 
+If you want further explanation and detail you can reach the [Analysis Report](Analysis Report.pdf)
 ## Dataset
 - **Sources**:  
   - [Business licences 1997 to 2012 — City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/business-licences-1997-to-2012/information/)
@@ -15,7 +16,7 @@ Our analysis leverages **PySpark** for scalable data processing, using Spark Dat
 
 ## Project Goals
 - 📈 Analyze long-term trends in business openings and closures.
-- 🏙️ Identify neighborhoods and business types with growth potential.
+- 🏙️ Identify local areas and business types with growth potential.
 - 🧩 Evaluate stability and lifecycle of businesses.
 - 🌱 Discover new opportunities based on saturation and seasonal behavior.
 
@@ -39,8 +40,12 @@ YVR-Business-licences-research/
 ├── notebooks/
 │   └── research.ipynb              # Main analysis notebook
 ├── .gitignore                      # Git ignore file
+├── Analysis Report.pdf             # Project report
 ├── README.md                       # Project documentation
+├── LICENSE.txt                  
+├── TERM.md
 └── requirements.txt                # Python dependencies
+
 ```
 
 ## Installation and Setup
